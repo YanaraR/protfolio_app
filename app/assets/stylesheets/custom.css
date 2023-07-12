@@ -3,4 +3,9 @@
     color: white;
     font-weight: bold;
   }
+
+.card-img-top {
+    max-height: 450px;
+    max-width: 450px;
+  }
   
